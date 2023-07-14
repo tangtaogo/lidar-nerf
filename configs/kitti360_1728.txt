@@ -1,0 +1,13 @@
+sequence_id = 1728
+alpha_d = 1000.0
+alpha_r = 1
+alpha_i = 1e1
+alpha_grad = 100.0
+grad_loss = True
+desired_resolution = 32768
+change_patch_size_lidar = [2, 8]
+num_steps = 768
+upsample_steps = 64
+bound = 1
+scale = 0.01235117157331213
+offset = [1036.6078389848537, 3863.5989919125104, 111.73904860790459]

@@ -1,0 +1,16 @@
+path = data/nerf_mvl
+dataloader = nerf_mvl
+sequence_id = car
+alpha_d = 1000.0
+alpha_r = 1
+alpha_i = 1
+alpha_grad = 100.0
+intensity_inv_scale=255.0
+grad_loss = False
+desired_resolution = 32768
+eval_interval=5
+num_steps = 768
+upsample_steps = 64
+bound = 1
+scale = 0.005
+offset = [973.0483450856506, 648.3910430331337, -8.442160936778045]

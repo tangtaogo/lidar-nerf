@@ -1,0 +1,22 @@
+# ['water_safety_barrier', 'tire', 'pier', 'plant', 'warning_sign', 'bollard', 'pedestrian', 'car',  'traffic_cone']
+expname = car
+basedir = pcgen_raydrop_log
+datadir = data/raydrop/pcgen/nerf_mvl_car
+dataset = nerfmvl
+no_batching = False
+lrate=5e-3
+lrate_decay = 500
+rgb_loss_type=mseloss
+N_iters = 10000
+cosLR=False
+netdepth=4
+netwidth=128
+N_rand = 2048
+H=256
+W=1800
+i_save=5000
+i_print=100
+i_weights=5000
+
+
+
