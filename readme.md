@@ -33,6 +33,10 @@
    <a href="https://scholar.google.com.hk/citations?user=Jtmq_m0AAAAJ&hl=zh-CN&oi=sra">Kaicheng Yu</a>
 </p>
 
+<p align="center">
+   <a href="https://github.com/tangtaogo/lidar-nerf/actions/workflows/formatter.yml"><img src="https://github.com/tangtaogo/lidar-nerf/actions/workflows/formatter.yml/badge.svg" alt="Formatter"></a>
+</p>
+
 ![lidar-nerf](./assets/lidar-nerf.png)
 
 ![lidar-nerf-res](./assets/lidar-nerf-res.png)
@@ -195,7 +199,12 @@ You can download our pre-trained models
 - [ ] Support more datasets, e.g, nuScenes, Waymo
 - [ ] Support more implicit geometry representation, e.g., SDF
 
-We welcome more polished contributions!
+# Contribution
+
+We welcome all forms of community contributions, including issues, bug fixes,
+new features, and more. Please
+[format the code](https://black.readthedocs.io/en/stable/getting_started.html)
+before submitting a pull request.
 
 ## Citation
 
